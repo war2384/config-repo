@@ -15,7 +15,7 @@ spring:
     host: 127.0.0.1
     port: 6379
 env:
-  test45
+  test13
 girl:
   name: mo
   age: 17
@@ -25,4 +25,4 @@ feign:
       default:
         connectTimeout: 5000
         readTimeout: 5000
-        loggerLevel: basic 
+        loggerLevel: basic  
